@@ -25,12 +25,16 @@ Google Generative AI Embeddings: For embedding document text into vectors.
 
 # 🚀 Usage
 Upload PDFs: Use the sidebar to upload one or more PDF files.
+
 Process PDF: Click on the "Submit & Process" button to process the files and store them in the FAISS index.
+
 Ask Questions: Enter a natural language query based on the uploaded PDFs in the main input box. The AI will respond with an answer derived from the document content.
 
 # 🛠️ Future Enhancements
 Expand support for other file types (e.g., DOCX).
+
 Integrate document summarization capabilities.
+
 Optimize search algorithms for faster, more relevant responses.
 
 
