@@ -3,18 +3,25 @@ DocChat is a lightweight Retrieval-Augmented Generation (RAG) app that enables u
 
 # ✨ Key Features
 PDF Upload: Upload and process multiple PDF files.
+
 Text Chunking: Break PDF text into manageable chunks for better retrieval and querying.
+
 AI-Powered Q&A: Ask questions based on the uploaded PDFs and receive context-aware answers powered by Google Gemini AI.
+
 Vector Store: Save and load document embeddings with FAISS for fast similarity searches.
 
 # 🔧 Tech Stack
 Streamlit: Provides the user interface for the app.
-Google Gemini AI: Generative AI used to answer queries.
-FAISS: Handles the creation and retrieval of vector embeddings from document chunks.
-LangChain: Facilitates chaining conversational models.
-PyPDF2: Used for extracting text from PDF files.
-Google Generative AI Embeddings: For embedding document text into vectors.
 
+Google Gemini AI: Generative AI used to answer queries.
+
+FAISS: Handles the creation and retrieval of vector embeddings from document chunks.
+
+LangChain: Facilitates chaining conversational models.
+
+PyPDF2: Used for extracting text from PDF files.
+
+Google Generative AI Embeddings: For embedding document text into vectors.
 
 # 🚀 Usage
 Upload PDFs: Use the sidebar to upload one or more PDF files.
